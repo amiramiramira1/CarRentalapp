@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "864450009953",
+    "project_id": "carental-app-53efe",
+    "storage_bucket": "carental-app-53efe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864450009953:android:ad627154f65f26e4794320",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaWvwEHPaHDI3jfc07egkvdYxy12jOAlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864450009953:android:d118a08639a02627794320",
+        "android_client_info": {
+          "package_name": "com.example.project3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaWvwEHPaHDI3jfc07egkvdYxy12jOAlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
