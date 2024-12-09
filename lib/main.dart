@@ -1,5 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:project3/screen/home_screen.dart';
 import 'package:project3/screen/welcome_screen.dart';
 import 'package:project3/theme/theme.dart';
 import 'firebase_options.dart';
@@ -21,7 +22,7 @@ class CarentalApp extends StatelessWidget {
       title: 'CarRentalApp',
       debugShowCheckedModeBanner: false,
       theme: lightMode,
-      home: WelcomeScreen(),
+      home: HomeScreen(),
     );
   }
 }

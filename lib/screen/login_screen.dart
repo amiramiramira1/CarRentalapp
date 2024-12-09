@@ -135,6 +135,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         SizedBox(
                           width: double.infinity,
                           child: ElevatedButton(
+
                             onPressed: () async {
                               if (formKey.currentState!.validate() &&
                                   rememberPassword) {
@@ -183,7 +184,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                 horizontal: 10,
                               ),
                               child: Text(
-                                'Register With',
+                                'Login With',
                                 style: TextStyle(
                                   color: Colors.black45,
                                 ),
